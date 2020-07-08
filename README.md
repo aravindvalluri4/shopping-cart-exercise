@@ -5,10 +5,10 @@ For Details check below the link (https://gist.github.com/jbartels/d75a9f5282abe
 
 Ideal desgin would be to have different services like below.
 
-Menu service
-Basket Service
-Offer Service
-Products Service
+1.Menu service
+1.Basket Service
+1.Offer Service
+1.Products Service
 
 More Modern design would be to divide these services into Function as service(FAAS)
 
