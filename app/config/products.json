@@ -1,0 +1,34 @@
+{
+  "products":[
+    {
+      "code":"AP1",
+      "name":"Apple",
+      "price":6.0
+    
+    },
+    {
+      "code":"CH1",
+      "name":"Chai",
+      "price":3.11
+    
+    },
+    {
+      "code":"OM1",
+      "name":"Oats",
+      "price":3.69
+    
+    },
+    {
+      "code":"MK1",
+      "name":"Milk",
+      "price":4.75
+    
+    },
+    {
+      "code":"CF1",
+      "name":"Cofee",
+      "price":11.23
+    
+    }
+  ]
+}
